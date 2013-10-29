@@ -11,13 +11,13 @@ Russian Phonetic Keyboard Layout / Русская фонетическая ра�
 
 Мягкий (ь) и твёрдый (ъ) знаки присутствуют только в "строчном" виде:
 
-![ScreenShot](RuPhonet.png)
+![ScreenShot](layouts/ruphonet/big/state0.png)
 
 Shift:
 
-![ScreenShot](RuPhonet-Shift.png)
+![ScreenShot](layouts/ruphonet/big/state1.png)
 
 Alt Gr:
 
-![ScreenShot](RuPhonet-AltGr.png)
+![ScreenShot](layouts/ruphonet/big/state6.png )
 
