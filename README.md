@@ -11,13 +11,35 @@ Russian Phonetic Keyboard Layout / Русская фонетическая ра�
 
 Мягкий (ь) и твёрдый (ъ) знаки присутствуют только в "строчном" виде:
 
-![ScreenShot](layouts/ruphonet/big/state0.png)
+![ScreenShot](layouts/ruphonet/src/state0.png)
 
 Shift:
 
-![ScreenShot](layouts/ruphonet/big/state1.png)
+![ScreenShot](layouts/ruphonet/src/state1.png)
 
 Alt Gr:
 
-![ScreenShot](layouts/ruphonet/big/state6.png )
+![ScreenShot](layouts/ruphonet/src/state6.png )
 
+be-phonet
+=========
+
+Belarusian Phonetic Keyboard Layout / Беларуская фанэтычная раскладка клавіятуры
+
+* [BePhonet.zip](https://github.com/dmitskevich/ru-phonet/raw/master/BePhonet.zip) (for Windows, requires Admin rights)
+* [BePhonet-portable.zip](https://github.com/dmitskevich/ru-phonet/raw/master/BePhonet-portable.zip) (for Windows, based on [PKL](http://pkl.sourceforge.net/))
+* [RuBePhonet-portable.zip](https://github.com/dmitskevich/ru-phonet/raw/master/RuBePhonet-portable.zip) (for Windows, based on [PKL](http://pkl.sourceforge.net/))
+
+---
+
+У кароткая (ў) знаходзіцца на месцы шча (щ) у рускай, а апостраф (') - на месцы цвёрдага знака (ъ):
+
+![ScreenShot](layouts/bephonet/src/state0.png)
+
+Shift:
+
+![ScreenShot](layouts/bephonet/src/state1.png)
+
+Alt Gr:
+
+![ScreenShot](layouts/bephonet/src/state6.png )
